@@ -1,0 +1,113 @@
+.header{
+    background: #3498db;
+}
+.head-left img{
+    width: 220px;
+}
+.head-right{}
+.head-right ul{
+    text-align: right;
+    margin-bottom: 0px;
+
+}
+.head-right ul li{
+    display: inline-block;
+    margin-left: -4px;
+}
+.head-right ul li a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 0px 22px;
+    font-size: 20px;
+    line-height: 77px;
+    
+    
+    border-right: 1px solid #ddd;
+}
+.head-right ul li a:hover{
+    background: #2980b9;
+    
+}
+.head-right ul li:first-child a{
+    border-left: 1px solid #ddd;
+}
+/* Banner */
+.banner{
+    background-image: url(./img/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 300px 0px;
+    background-attachment: fixed;
+}
+.allb h2{
+    background: rgba(8, 8, 8, 0.637);
+    color: white;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 50px;
+    border-radius: 5px;
+}
+.allb h3{
+   
+    background:rgba(7, 128, 165, 0.6);
+    color: white;
+    max-width: 500px;
+    margin: auto;
+    padding: 10px 5px;
+    font-size: 40px;
+    margin-top: 20px;
+    border-radius: 20px;
+    
+}
+/* about */
+.about{
+    background: #ecf0f1;
+}
+.about-item h1{
+    font-size: 50px;
+}
+.about-item p{
+    font-size: 20px;
+    padding: 20px 30px;
+}
+/* blog */
+.blog{
+    background: #dfdfdf;
+}
+.card span i{
+    font-size: 50px;
+    padding: 10px 20px;
+    background: #3498db;
+    color: white;
+    margin-top: 10px;
+    border-radius: 20px 0px 30px 0px;
+}
+.card h1{
+    font-size: 50px;
+    
+}
+/* services */
+
+img{
+    max-width: 100%;
+}
+
+/* footer */
+.footer{
+    background: #2c3e50;
+    text-align: center;
+    padding: 10px 0px;
+    
+}
+.footer p{
+    color: #fff;
+    margin-bottom: 0;
+}
+.footer p a{
+    text-decoration: none;
+    color: orange;
+}
+
+
+

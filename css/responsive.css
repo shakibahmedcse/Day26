@@ -1,0 +1,186 @@
+@media (max-width: 1230px) {
+    .head-left img {
+        width: 180px;
+        padding-top: 7px;
+        margin-left: -24px;
+    }
+    .head-right ul li a {     
+        padding: 0px 15px;
+        font-size: 16px;
+        line-height: 74px;
+    }
+}
+
+@media (max-width: 1165px) {}
+
+@media (max-width: 992px) {
+    .col-md-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+    }
+    .col-md-8 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+        display: inline-block;
+
+        margin-left: -88px;
+    }
+    .head-right ul li:first-child a {
+        border-left: inherit;
+    }
+    .head-right ul li a {
+
+        border-right: inherit;
+    }
+    .banner {
+        padding: 190px 0px;
+        background-position: -238px -18px;
+    }
+    .allb h2 {
+        
+        padding: 15px 29px;
+        font-size: 40px;
+
+    }
+    .allb h3 {
+        
+        max-width: 476px;
+        padding: 13px 14px;
+        font-size: 35px;
+
+    }
+    .col-md-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 22px;
+        padding: 5px 65px;
+    }
+    .card {
+    
+        padding: 25px;
+    }
+    .col-md-9 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .head-right ul li a {
+        padding: 0px 10px;
+        font-size: 15px;
+        line-height: 68px;
+    }
+    .head-left img {
+        width: 170px;
+        padding-top: 7px;
+        margin-left: -50px;
+    }
+    .col-md-8 {
+        margin-top: -10px;
+    }
+    .banner {
+
+        padding: 152px 0px;
+        background-position: -409px -57px;
+    }
+    .allb h2 {
+
+        padding: 18px 28px;
+        font-size: 30px;
+        border-radius: 10px;
+    }
+    .allb h3 {
+        max-width: 370px;
+
+        padding: 13px 14px;
+        font-size: 27px;
+        margin-top: 15px;
+
+    }
+    .about-item h1 {
+        font-size: 40px;
+    }
+    .about-item p {
+        font-size: 18px;
+        padding: 10px 30px;
+    }
+}
+
+@media (max-width: 592px) {
+    .head-left img {
+        width: 125px;
+        margin-left: -24px;
+    }
+    .head-right ul li a {
+        padding: 0px 10px;
+        font-size: 12px;
+        line-height: 59px;
+    }
+    .head-right ul li a:hover{
+        background: inherit;
+        
+    }
+    .banner {
+
+        padding: 100px 0px;
+
+        background-position: -587px -68px;
+    }
+    .allb h2 {
+
+        padding: 16px 24px;
+        font-size: 25px;
+        border-radius: 9px;
+    }
+    .allb h3 {
+
+        max-width: 293px;
+        padding: 12px 10px;
+        font-size: 21px;
+        margin-top: 8px;
+
+    }
+
+    .card h1 {
+        font-size: 45px;
+    }
+}
+@media (max-width: 470px) {
+    .head-right ul li a {
+        padding: 0px 5px;
+        font-size: 11px;
+     
+    }
+    .col-md-8 {
+
+        margin-left: -34px;
+    }
+    .allb h2 {
+
+        padding: 15px 18px;
+        font-size: 17px;
+
+    }
+    .allb h3 {
+
+        max-width: 249px;
+
+        padding: 11px 9px;
+        font-size: 18px;
+        margin-top: 8px;
+ 
+    }
+    .about-item p {
+        font-size: 13px;
+        padding: 6px 24px;
+    }
+    .about-item h1 {
+        font-size: 35px;
+    }
+    .card h1 {
+        font-size: 26px;
+    }
+}
